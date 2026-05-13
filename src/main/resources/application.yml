@@ -1,0 +1,6 @@
+server:
+  port: 10126
+spring:
+  websocket:
+    max-binary-message-buffer-size: 6553600000  # 设置二进制消息最大缓冲区大小为64KB
+

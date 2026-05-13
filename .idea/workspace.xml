@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e898dc54-9e6a-4358-9e67-b7c7763e7754" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectId" id="2msIk3jVnEACmIut8nmqJQiYGCV" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/rtasr_java_demo_wss" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17734376" />
+    <property name="project.structure.side.proportion" value="0.43351352" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="W:\项目\代码\iat_ws_springboot\iat_ws_springboot\src\main\resources" />
+      <recent name="W:\项目\代码\iat_ws_springboot\iat_ws_springboot\lib" />
+      <recent name="W:\项目\代码\iat_ws_springboot\iat_ws_springboot\src\main\java\com\iatws\rtasr" />
+      <recent name="W:\项目\代码\iat_ws_springboot\iat_ws_springboot\src\main\java\com\iatws\util" />
+      <recent name="W:\项目\代码\iat_ws_springboot\iat_ws_springboot\src\main\java\com\iatws" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.iatws.service" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="RTASRTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iatws.rtasr.RTASRTest" />
+      <module name="iat_ws_springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iatws.rtasr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebIATWS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iatws.socket.WebIATWS" />
+      <module name="iat_ws_springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iatws.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="iat_ws_springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iatws.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iatws.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.2" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.2" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e898dc54-9e6a-4358-9e67-b7c7763e7754" name="更改" comment="" />
+      <created>1727859000548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727859000548</updated>
+      <workItem from="1727859001640" duration="9681000" />
+      <workItem from="1727870863063" duration="187000" />
+      <workItem from="1727874776370" duration="1140000" />
+      <workItem from="1727880013784" duration="61000" />
+      <workItem from="1728012355523" duration="5075000" />
+      <workItem from="1728223725196" duration="1061000" />
+      <workItem from="1728224800338" duration="70000" />
+      <workItem from="1728224961022" duration="2854000" />
+      <workItem from="1728350319214" duration="9071000" />
+      <workItem from="1728437729480" duration="2771000" />
+      <workItem from="1728441556583" duration="2497000" />
+      <workItem from="1728447432309" duration="2105000" />
+      <workItem from="1728450790875" duration="9781000" />
+      <workItem from="1728460834095" duration="459000" />
+      <workItem from="1728461306260" duration="3585000" />
+      <workItem from="1728464931395" duration="625000" />
+      <workItem from="1728465570694" duration="1850000" />
+      <workItem from="1728467592171" duration="29000" />
+      <workItem from="1728470892222" duration="7746000" />
+      <workItem from="1728524763089" duration="10435000" />
+      <workItem from="1728624312205" duration="20962000" />
+      <workItem from="1728666313120" duration="2260000" />
+      <workItem from="1728726909101" duration="1595000" />
+      <workItem from="1728728925458" duration="5000" />
+      <workItem from="1728728957137" duration="55000" />
+      <workItem from="1728735386916" duration="60000" />
+      <workItem from="1735883112548" duration="672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
